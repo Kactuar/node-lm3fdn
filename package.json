@@ -1,0 +1,19 @@
+{
+  "name": "l1_t1",
+  "version": "0.1.2",
+  "description": "## Header 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kactuar/l1_t1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kactuar/l1_t1/issues"
+  },
+  "homepage": "https://github.com/Kactuar/l1_t1#readme"
+}
